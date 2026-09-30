@@ -21,29 +21,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,docker,cpp,go,git,linux,postgres,redis,nginx" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</p>
-
----
-
-### 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<!-- Activity graph (like on the screenshot) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
