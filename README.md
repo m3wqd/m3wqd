@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/your_username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%7C+Go+%7C+TS+%7+C;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%7C+C+%7C+TS+%7;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,docker,cpp,go,git,linux,postgres,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,docker,cpp,git,linux,postgres,nginx" />
 </p>
 
 
